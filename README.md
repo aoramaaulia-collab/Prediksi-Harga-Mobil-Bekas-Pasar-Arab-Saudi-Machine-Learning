@@ -1,10 +1,10 @@
-# 🚗 Saudi Arabia Used Car Price Prediction
+# Saudi Arabia Used Car Price Prediction
 
 **Machine Learning Regression & Business Insight Analysis**
 
 ---
 
-## 📌 Business Context
+## Business Context
 
 Pasar mobil bekas di Arab Saudi memiliki variasi harga yang tinggi akibat kombinasi faktor seperti usia kendaraan, merek, fitur, dan kapasitas mesin. Ketidaktepatan dalam penentuan harga dapat menyebabkan:
 
@@ -16,7 +16,7 @@ Proyek ini bertujuan membangun model regresi yang tidak hanya akurat secara stat
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Bagaimana membangun model yang:
 
@@ -29,7 +29,7 @@ Target: **Prediksi Price (SAR)**
 
 ---
 
-## 📊 Data & Preparation
+## Data & Preparation
 
 ### Data Cleaning
 
@@ -49,7 +49,7 @@ Distribusi target menunjukkan right-skewness dengan long tail pada segmen premiu
 
 ---
 
-## 🧪 Modeling Strategy
+## Modeling Strategy
 
 Dilakukan benchmarking beberapa algoritma regresi:
 
@@ -71,7 +71,7 @@ Fokus utama:
 
 ---
 
-## 🏆 Final Model: Tuned XGBoost
+## Final Model: Tuned XGBoost
 
 Setelah hyperparameter tuning:
 
@@ -87,7 +87,7 @@ Tuning memberikan penurunan MSE sebesar ±22%, menunjukkan optimasi parameter si
 
 ---
 
-## 🔎 Insight Analysis
+## Insight Analysis
 
 ### Feature Importance
 
@@ -111,7 +111,7 @@ Model selaras dengan dinamika pasar riil.
 
 ---
 
-## 📉 Error Analysis
+## Error Analysis
 
 Temuan utama:
 
@@ -127,7 +127,7 @@ Akar penyebab:
 
 ---
 
-## 💼 Business Implication
+## Business Implication
 
 Model dapat digunakan untuk:
 
